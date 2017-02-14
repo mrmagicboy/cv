@@ -61,26 +61,31 @@ Interactive HTML applications are my specialty.
 
 Senior Front-end Developer @ **The Frameworks Spark**  
 *September 2015 - April 2017*  
-Technologies and/or programming languages I'm familiar with:
 
-- HTML5 + Template engines: e.g. swig, grails + PHP template engine grade
-- CSS3 + Preprocessors: SASS (preferring) / LESS
-- Responsive layout, mobile first
-- Task runners + Module loaders: Grunt / Gulp / Webpack
-- JavaScript + JS / MVC Frameworks: AngularJS / Angular2, ReactJS, jQuery
-- Automated Testing + Testing frameworks: Jasmine, protractor, karma
-- Open source CMS *: Statamic, CraftCMS
-- Usage of Git and TFS version control systems
-- Package managers such as Composer, NPM, and Bower
-- Knowledge of MySQL and PHPMyAdmin
-- Object Oriented Development
-- Component Driven Development
-- Tests Driven Development
-- Agile Software Development (scrum, pull requests, Kanban board etc)
-- Continuous Integration: Composer, Semaphore
-- RESTful API communication
-
-*As a bonus I can mention that I also built very unique CMS based on AngularJS + APIs.
+- Providing accurate timing estimates on work.
+- Contributing to documentation (instructional, pitch and technical specification) - improving automation of documentation throughout all apps
+- Sharing knowledge with others technical and non-technical members of team
+- Contributing to the company development standards working closely with the Head of Development and Technical Director.
+- Discussing technical solutions with clients and providing innovative new ideas to solutions.
+- Maintaining a high awareness of industry issues and trends, particularly in regard to accessibility, usability, and emerging technologies, and keep team members informed as appropriate, with a view to incorporating these in future projects and staying ahead of the market and position yourself and the company as a digital specialist.
+- Constantly seeking to develop yourself by learning new technologies and keeping abreast of your markets developments.
+- Excellent HTML5, CSS3 and SASS experience
+- Experience using template engines like
+- Developing cross-browser and cross-platform compatible solutions
+- Excellent knowledge of JavaScript
+- Knowledge of working with JavaScript frameworks to create rich interactive content – jQuery, angularJS, angular2, vueJS, reactJS
+- Excellent experience with task runners with Gulp, Grunt or Webpack
+- Experience writing JS Unit Tests using Jasmine framework ran with Karma
+- Experience integrating with server-side code to produce dynamic pages
+- Experience designing data model structure
+- Experience creating back-end service using back&
+- Excitement about emerging web technologies.
+- Good understanding of Web Accessibility
+- Experience working with version control systems such as GIT
+- Experience building sites to at least an AA standard
+- Excellent experience in AJAX techniques and RESTful API calls
+- Experience working with PHP Laravel framework and Grade template engine.
+- Knowledge of HTML Email best practices
 
 **Stack:** HTML, CSS and JavaScript
 ___
